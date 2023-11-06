@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe>
+    <infNFe Id="NFe50231002935843000105558900063344851250388653" versao="4.00">
+      <ide>
+        <cUF>50</cUF>
+        <cNF>25038865</cNF>
+        <natOp>85 - AVULSA - DEVOLUCÃO DE MERCADORIA</natOp>
+        <mod>55</mod>
+        <serie>890</serie>
+        <nNF>6334485</nNF>
+        <dhEmi>2023-10-25T14:38:22-04:00</dhEmi>
+        <dhSaiEnt>2023-10-25T15:00:00-04:00</dhSaiEnt>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>5003256</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>3</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>4</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>0</indPres>
+        <procEmi>1</procEmi>
+        <verProc>2.00</verProc>
+        <NFref>
+          <refNFe>50230829933257000188550010000132171231658261</refNFe>
+        </NFref>
+      </ide>
+      <emit>
+        <CNPJ>34266675000107</CNPJ>
+        <xNome>MARCOS LEMES 92750141168</xNome>
+        <enderEmit>
+          <xLgr>R LUZIA FRANCISCA DE JESUS</xLgr>
+          <nro>213</nro>
+          <xBairro>NOVO HORIZONTE</xBairro>
+          <cMun>5003256</cMun>
+          <xMun>Costa Rica</xMun>
+          <UF>MS</UF>
+          <CEP>79550000</CEP>
+        </enderEmit>
+        <IE>284409197</IE>
+        <CRT>3</CRT>
+      </emit>
+      <avulsa>
+        <CNPJ>02935843000105</CNPJ>
+        <xOrgao>SEFAZ MS</xOrgao>
+        <matr>478663021</matr>
+        <xAgente>acpereira</xAgente>
+        <UF>MS</UF>
+        <repEmi>Agência Fazendária de Costa Rica</repEmi>
+      </avulsa>
+      <dest>
+        <CNPJ>29933257000188</CNPJ>
+        <xNome>AUTOSCAP CAMPO GRANDE DISTR. E COM. DE PECAS P/ VEIC. LTDA</xNome>
+        <enderDest>
+          <xLgr>RUA ARI COELHO DE OLIVEIRA</xLgr>
+          <nro>362</nro>
+          <xBairro>VILA PROGRESSO</xBairro>
+          <cMun>5002704</cMun>
+          <xMun>Campo Grande</xMun>
+          <UF>MS</UF>
+          <CEP>79050310</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>284295680</IE>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>5785</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>VEA600CM3-CATALISADOR C/COLETOR PALIO 1.0 8V 2011 A 2015 EVO</xProd>
+          <NCM>84213200</NCM>
+          <CEST>2804400</CEST>
+          <CFOP>5202</CFOP>
+          <uCom>PC</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>881.0920000000</vUnCom>
+          <vProd>881.09</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>PC</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>881.0920000000</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <vTotTrib>0.00</vTotTrib>
+          <ICMS>
+            <ICMS60>
+              <orig>0</orig>
+              <CST>60</CST>
+            </ICMS60>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>881.09</vBC>
+              <pPIS>0.6500</pPIS>
+              <vPIS>5.73</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>881.09</vBC>
+              <pCOFINS>3.0000</pCOFINS>
+              <vCOFINS>26.43</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>0.00</vBC>
+          <vICMS>0.00</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCPUFDest>0.00</vFCPUFDest>
+          <vICMSUFDest>0.00</vICMSUFDest>
+          <vICMSUFRemet>0.00</vICMSUFRemet>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>881.09</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>5.73</vPIS>
+          <vCOFINS>26.43</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>881.09</vNF>
+          <vTotTrib>0.00</vTotTrib>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>9</modFrete>
+      </transp>
+      <pag>
+        <detPag>
+          <tPag>90</tPag>
+          <vPag>0.00</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infAdFisco>Via de transporte predominante: RODOVIÁRIO; Gerada pela AGENFA; Login: acpereira; NOTA(S) REFERENCIADA(S) NF-e/NFP-e:  (50230829933257000188550010000132171231658261); Remetente optante do Simples Nacional. O prazo para pagamento dos tributos devidos pelos contribuintes optantes pelo Simples Nacional será conforme LEI COMPLEMENTAR Nro 123, DE 14 DE DEZEMBRO DE 2006</infAdFisco>
+        <obsCont xCampo="NATUREZA-OPERACAO">
+          <xTexto>85</xTexto>
+        </obsCont>
+      </infAdic>
+      <infRespTec>
+        <CNPJ>02935843000105</CNPJ>
+        <xContato>SEFAZ - SECRETARIA DE ESTADO DE FAZENDA</xContato>
+        <email>servicedesk@fazenda.ms.gov.br</email>
+        <fone>6733183600</fone>
+      </infRespTec>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+        <Reference URI="#NFe50231002935843000105558900063344851250388653">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+          <DigestValue>zS0NdQzHDlWKOsvrhwbzvhh3Nmw=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>dapjaSkyxRFz0rtBbRkik+uOfseaAQpitH7nta/AJJ69ORNCkdepdEW9ArgChHgNiTh75TQDFBzvQjBcO93ZL1n4aw7lpyj8mHeMgsKQyfOjpACpIj8UvgDN3SUBeikcfo1eg9e0EU/oWC2FsCNSDCUoJnas4CzcCu3UtGFt5dOYIjwloKWOjbTskrgD29cfmuB0F6DLui+W/K7/Np850PF3OrWErhmtIS9QbwXn9Qf4+6QVzdRnmeoLiNDqO5/8B1FFxlW5fUiZiQYdzD1LVFBiaurLrUI7/ktGgTcIBQOaFb08Il5zx0W+b7l7HpN8f65PRFUjYL8/os7hw665yQ==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>MIIHZjCCBU6gAwIBAgIIEd4jCBRmBKIwDQYJKoZIhvcNAQELBQAwWTELMAkGA1UEBhMCQlIxEzARBgNVBAoTCklDUC1CcmFzaWwxFTATBgNVBAsTDEFDIFNPTFVUSSB2NTEeMBwGA1UEAxMVQUMgU09MVVRJIE11bHRpcGxhIHY1MB4XDTIzMDgxNzE0NDQwMFoXDTI0MDgxNjE0NDQwMFowgfUxCzAJBgNVBAYTAkJSMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMQswCQYDVQQIEwJNUzEVMBMGA1UEBxMMQ2FtcG8gR3JhbmRlMR4wHAYDVQQLExVBQyBTT0xVVEkgTXVsdGlwbGEgdjUxFzAVBgNVBAsTDjA5NDYxNjQ3MDAwMTk1MRkwFwYDVQQLExBWaWRlb2NvbmZlcmVuY2lhMRowGAYDVQQLExFDZXJ0aWZpY2FkbyBQSiBBMTE9MDsGA1UEAxM0U0VGQVogU0VDUkVUQVJJQSBERSBFU1RBRE8gREUgRkFaRU5EQTowMjkzNTg0MzAwMDEwNTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIJQuGTIkQqn4wsqpDWLX4KTCyqttM0NXUPNaTdqitGt2DT6xOHEFiuq4O5R3P6XUbJmfkG20OaYc2QujKxHh1RmgEn4J327fDJ66hBpX5b/pLG9NKXXQkZk1myVn8CdKwDivOuz6LplmbCN/tY4VTabQG00Fw9LZzvxykud5qXKIcr04MFQKdugWgG0Q4CGBLYIMn2MUU5Ir3xGR13/mPxfY9P0sSNkz45vY+ccaiVUjgAvocjyb6NTiOkjDXEl8z3h2wdeMZgQQ+CP6KlzPuMgpeAgKeLIJFHPcpxpS4gFYqj73BeaKZKzgbrX1B9/9zrzT6B0WYRDY83nEuY4v1ECAwEAAaOCApMwggKPMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUxVLtJYAJ35yCyJ9Hxt20XzHdubEwVAYIKwYBBQUHAQEESDBGMEQGCCsGAQUFBzAChjhodHRwOi8vY2NkLmFjc29sdXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXY1LnA3YjCBzgYDVR0RBIHGMIHDgSRjZXJ0aWZpY2Fkb2RpZ2l0YWxAZmF6ZW5kYS5tcy5nb3YuYnKgLQYFYEwBAwKgJBMiQ0FJTyBHUkFDTyBQT01QRVUgU0FCSU5PIERFIEFSQVVKT6AZBgVgTAEDA6AQEw4wMjkzNTg0MzAwMDEwNaA4BgVgTAEDBKAvEy0xNDAxMTk3NzY5MjY2Mzk1MTUzMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCgFwYFYEwBAwegDhMMMDAwMDAwMDAwMDAwMF0GA1UdIARWMFQwUgYGYEwBAgEmMEgwRgYIKwYBBQUHAgEWOmh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2RvY3MvZHBjLWFjLXNvbHV0aS1tdWx0aXBsYS5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGMBgNVHR8EgYQwgYEwPqA8oDqGOGh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEtdjUuY3JsMD+gPaA7hjlodHRwOi8vY2NkMi5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12NS5jcmwwHQYDVR0OBBYEFJPr8GaWvzehPja3uQ6LL1xm+n0tMA4GA1UdDwEB/wQEAwIF4DANBgkqhkiG9w0BAQsFAAOCAgEAaNCzTIZHLjCmw48G2uBTy7V43wuqfYA08B1CC7A30qrlHC/0E50l40ap4jjFwn03DyDXvehvpyqAcGNsbUL68vyloH6hdHW2ify7O8iz9y1/p/00zEYqYYlA0wUuSHDrDlDVDRyh8g4I5a4vnJo0xmbw+DvD6RoOCqvbiw2sg+BPgjLBLNj8F3xqCBS982kjUNtutuY2t1IJAihKqUVQcRUk6SrriHELKYWcdLna0ORkr+JhYXGcbu8G3tskQ1mzEr+IgBjGwa1c4iNkUn6U7emBzmn+ZkGoJKHu6IS/QcqP7DI8HJTmImI6q6hbZ76TpP4hRfRt+Yngn6MMqur6A6v7alrqfwq/+yEueqdcJYW4pbX+p3MEQ1lzeqaX3yxusEfK5DTmq4BrN6JWZ1UeYmcu+FKiyLc4sAeeHj57nKc3ckDyKaJPk0H6KgZkBOP0Im4dLgthQwvazbSDVDOisDBVeANFYSiErYS24WUYOU0H8SjbSF5udFtDzL1stSMSR0ViPDzuomuZWzkfjS8CkojFE1LwedK+bt4CVQiA3Q/uhg9Dxl/agwNjEpZ2oqc4hQRZtHlz+MF09IjpsSt4IlzN63tCGWCie1z4CD//eUHYsole5reaqc/WiPAF45pMHuxlDbO5w2i3/sg77nXc1bmW4uJPNMyIQQXi5V2smis=</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <infProt Id="ID150230040224115">
+      <tpAmb>1</tpAmb>
+      <verAplic>MS_6.0.21</verAplic>
+      <chNFe>50231002935843000105558900063344851250388653</chNFe>
+      <dhRecbto>2023-10-25T14:39:46-04:00</dhRecbto>
+      <nProt>150230040224115</nProt>
+      <digVal>zS0NdQzHDlWKOsvrhwbzvhh3Nmw=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+        <Reference URI="#ID150230040224115">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+          <DigestValue>+tGv/gnfcmkhkPNJU6lJQaUpVBk=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>Oib+n7V8ylQiowdoU30Pj4ClpUlTBdJUTZ2IdkwaA5pQxt6i2u5lq3su1adQ7I4eRll7R9i/EujI
+FH0uCynjan1Ak3BU1yoLpMPjaDGDwdwph0XN47Qzmom3BfPwfZDyf9OCmeq8OpGiVYGnigcA11Qr
+Fuu5ltwpHioA3AlfPvh9p7Rd5cuP4yCYOc1BpUhDDjm315gQJNBZqeGBO8aRUutrBvzzp+f9J9mr
+JgvvHilSA5qAqToa9otoQXwn8DPg9powvlEWNtSH6yfb7EJ7KU4heeyZyNTeU0L9JxJeNVYNYn1A
+TAxECGY2tLKqrWABIPQDGqj6/tP3Sz6qjuSHow==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>MIIHZjCCBU6gAwIBAgIIEd4jCBRmBKIwDQYJKoZIhvcNAQELBQAwWTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxFTATBgNVBAsTDEFDIFNPTFVUSSB2NTEeMBwGA1UEAxMVQUMgU09M
+VVRJIE11bHRpcGxhIHY1MB4XDTIzMDgxNzE0NDQwMFoXDTI0MDgxNjE0NDQwMFowgfUxCzAJBgNV
+BAYTAkJSMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMQswCQYDVQQIEwJNUzEVMBMGA1UEBxMMQ2FtcG8g
+R3JhbmRlMR4wHAYDVQQLExVBQyBTT0xVVEkgTXVsdGlwbGEgdjUxFzAVBgNVBAsTDjA5NDYxNjQ3
+MDAwMTk1MRkwFwYDVQQLExBWaWRlb2NvbmZlcmVuY2lhMRowGAYDVQQLExFDZXJ0aWZpY2FkbyBQ
+SiBBMTE9MDsGA1UEAxM0U0VGQVogU0VDUkVUQVJJQSBERSBFU1RBRE8gREUgRkFaRU5EQTowMjkz
+NTg0MzAwMDEwNTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIJQuGTIkQqn4wsqpDWL
+X4KTCyqttM0NXUPNaTdqitGt2DT6xOHEFiuq4O5R3P6XUbJmfkG20OaYc2QujKxHh1RmgEn4J327
+fDJ66hBpX5b/pLG9NKXXQkZk1myVn8CdKwDivOuz6LplmbCN/tY4VTabQG00Fw9LZzvxykud5qXK
+Icr04MFQKdugWgG0Q4CGBLYIMn2MUU5Ir3xGR13/mPxfY9P0sSNkz45vY+ccaiVUjgAvocjyb6NT
+iOkjDXEl8z3h2wdeMZgQQ+CP6KlzPuMgpeAgKeLIJFHPcpxpS4gFYqj73BeaKZKzgbrX1B9/9zrz
+T6B0WYRDY83nEuY4v1ECAwEAAaOCApMwggKPMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUxVLtJYAJ
+35yCyJ9Hxt20XzHdubEwVAYIKwYBBQUHAQEESDBGMEQGCCsGAQUFBzAChjhodHRwOi8vY2NkLmFj
+c29sdXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXY1LnA3YjCBzgYDVR0RBIHGMIHD
+gSRjZXJ0aWZpY2Fkb2RpZ2l0YWxAZmF6ZW5kYS5tcy5nb3YuYnKgLQYFYEwBAwKgJBMiQ0FJTyBH
+UkFDTyBQT01QRVUgU0FCSU5PIERFIEFSQVVKT6AZBgVgTAEDA6AQEw4wMjkzNTg0MzAwMDEwNaA4
+BgVgTAEDBKAvEy0xNDAxMTk3NzY5MjY2Mzk1MTUzMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCg
+FwYFYEwBAwegDhMMMDAwMDAwMDAwMDAwMF0GA1UdIARWMFQwUgYGYEwBAgEmMEgwRgYIKwYBBQUH
+AgEWOmh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2RvY3MvZHBjLWFjLXNvbHV0aS1tdWx0aXBs
+YS5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGMBgNVHR8EgYQwgYEwPqA8oDqG
+OGh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEtdjUuY3Js
+MD+gPaA7hjlodHRwOi8vY2NkMi5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBs
+YS12NS5jcmwwHQYDVR0OBBYEFJPr8GaWvzehPja3uQ6LL1xm+n0tMA4GA1UdDwEB/wQEAwIF4DAN
+BgkqhkiG9w0BAQsFAAOCAgEAaNCzTIZHLjCmw48G2uBTy7V43wuqfYA08B1CC7A30qrlHC/0E50l
+40ap4jjFwn03DyDXvehvpyqAcGNsbUL68vyloH6hdHW2ify7O8iz9y1/p/00zEYqYYlA0wUuSHDr
+DlDVDRyh8g4I5a4vnJo0xmbw+DvD6RoOCqvbiw2sg+BPgjLBLNj8F3xqCBS982kjUNtutuY2t1IJ
+AihKqUVQcRUk6SrriHELKYWcdLna0ORkr+JhYXGcbu8G3tskQ1mzEr+IgBjGwa1c4iNkUn6U7emB
+zmn+ZkGoJKHu6IS/QcqP7DI8HJTmImI6q6hbZ76TpP4hRfRt+Yngn6MMqur6A6v7alrqfwq/+yEu
+eqdcJYW4pbX+p3MEQ1lzeqaX3yxusEfK5DTmq4BrN6JWZ1UeYmcu+FKiyLc4sAeeHj57nKc3ckDy
+KaJPk0H6KgZkBOP0Im4dLgthQwvazbSDVDOisDBVeANFYSiErYS24WUYOU0H8SjbSF5udFtDzL1s
+tSMSR0ViPDzuomuZWzkfjS8CkojFE1LwedK+bt4CVQiA3Q/uhg9Dxl/agwNjEpZ2oqc4hQRZtHlz
++MF09IjpsSt4IlzN63tCGWCie1z4CD//eUHYsole5reaqc/WiPAF45pMHuxlDbO5w2i3/sg77nXc
+1bmW4uJPNMyIQQXi5V2smis=</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </protNFe>
+</nfeProc>
